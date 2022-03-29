@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akram Farhati
-- 👀 I’m interested in python programming : django frameworkd and IA 
+- 👀 I’m interested in python programming : django framework and IA developer
 - 🌱 I’m currently python developer
 - 💞️ 
 - 📫 How to reach me :my email : farhati.akrem@gmail.com, my phone number is : +21627159115
